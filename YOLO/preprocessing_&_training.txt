@@ -1,1 +1,1 @@
-Due to its image outputs we could not able to upload the preprocessing and training for YOLO Jupyter notebook directly to do Github. You can reach it from the following link: https://colab.research.google.com/drive/1drYLGkwAtwcEfv7kaXXUSFtpAfuLWw4S?usp=sharing 
+Due to its image outputs and its large size we could not able to upload the preprocessing and training for YOLO Jupyter notebook directly to do Github. You can reach it from the following link: https://colab.research.google.com/drive/1drYLGkwAtwcEfv7kaXXUSFtpAfuLWw4S?usp=sharing 
